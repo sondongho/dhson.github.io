@@ -1,4 +1,3 @@
-# sondongho.github.io
 ### 개인 프로필
 ---
 * 보나캠프
